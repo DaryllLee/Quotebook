@@ -1,0 +1,55 @@
+[33mcommit b7fa90dff04cb71e5b4cd2a7ee6b6e440ce48e38[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 10fae12 5b93118
+Author: Young <Daryll.Young@duke-energy.com>
+Date:   Thu Dec 3 14:49:18 2020 -0500
+
+    fixed merge conflict
+
+[33mcommit 10fae12e1f45d5e4276477828df04a37d1ffa8fa[m
+Author: Young <Daryll.Young@duke-energy.com>
+Date:   Thu Dec 3 14:45:09 2020 -0500
+
+    changed color to green
+
+[33mcommit 5b93118351d916fdbb5bbe5b45b19e4df31f93a2[m[33m ([m[1;32mpersonal_color[m[33m)[m
+Author: Young <Daryll.Young@duke-energy.com>
+Date:   Thu Dec 3 14:42:39 2020 -0500
+
+    Changed color to yellow
+
+[33mcommit df36c943d1bd320be1cc7ccdf3bc5aa6af66479f[m
+Merge: 54a4071 79a0cf6
+Author: Young <Daryll.Young@duke-energy.com>
+Date:   Thu Dec 3 14:29:38 2020 -0500
+
+    Merge branch 'personal_quotes' "Merging Spocks message"
+
+[33mcommit 54a407115a298469c0e55b38aff7ce96001f1a5d[m
+Author: Young <Daryll.Young@duke-energy.com>
+Date:   Thu Dec 3 14:26:54 2020 -0500
+
+    Added Spock quote
+
+[33mcommit 79a0cf669d1768fc49ba65f1bc217c1e6bab39f9[m[33m ([m[1;32mpersonal_quotes[m[33m)[m
+Author: Young <Daryll.Young@duke-energy.com>
+Date:   Thu Dec 3 14:21:12 2020 -0500
+
+    added quote about blue
+
+[33mcommit 677c175bc162c05237561b0cdf09c5f37b8965b2[m
+Author: Young <Daryll.Young@duke-energy.com>
+Date:   Thu Dec 3 11:08:26 2020 -0500
+
+    First commit on personal_quotes
+
+[33mcommit d883b5f5849a1653d32aa8605632bf8551f7646e[m
+Author: Young <Daryll.Young@duke-energy.com>
+Date:   Wed Dec 2 11:58:09 2020 -0500
+
+    2nd commit
+
+[33mcommit 311179bd259563a002510c061168363a55cfe7c5[m
+Author: Young <Daryll.Young@duke-energy.com>
+Date:   Wed Dec 2 11:49:07 2020 -0500
+
+    Initial Commit
